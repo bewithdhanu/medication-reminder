@@ -24,7 +24,7 @@ A flexible medication reminder application built with React and TypeScript. This
 
 1. Clone the repository
 ```bash
-git clone [repository-url]
+git clone https://github.com/bewithdhanu/medication-reminder.git
 cd schedules
 ```
 
@@ -49,4 +49,4 @@ MIT
 
 ## Author
 
-[Your Name]
+[Dhanu K](https://github.com/bewithdhanu)
